@@ -43,3 +43,6 @@ The application relies on the following data structures:
        [{ value: "10", style: { fontWeight: "bold" } }, { value: "20", style: {} }],
        [{ value: "=SUM(A1:A2)", style: {} }, { value: "", style: {} }]
      ]
+##output
+
+![image](https://github.com/user-attachments/assets/8b1acaf9-48f9-4a3c-be0d-bb31b6c651a3)
